@@ -1,0 +1,13 @@
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\bin\Debug\netcoreapp3.1\AcmeApp.exe
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\bin\Debug\netcoreapp3.1\AcmeApp.deps.json
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\bin\Debug\netcoreapp3.1\AcmeApp.runtimeconfig.json
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\bin\Debug\netcoreapp3.1\AcmeApp.runtimeconfig.dev.json
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\bin\Debug\netcoreapp3.1\AcmeApp.dll
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\bin\Debug\netcoreapp3.1\AcmeApp.pdb
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\obj\Debug\netcoreapp3.1\AcmeApp.csprojAssemblyReference.cache
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\obj\Debug\netcoreapp3.1\AcmeApp.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\obj\Debug\netcoreapp3.1\AcmeApp.AssemblyInfoInputs.cache
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\obj\Debug\netcoreapp3.1\AcmeApp.AssemblyInfo.cs
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\obj\Debug\netcoreapp3.1\AcmeApp.dll
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\obj\Debug\netcoreapp3.1\AcmeApp.pdb
+C:\Users\Marc\source\repos\AcmeApp\AcmeApp\obj\Debug\netcoreapp3.1\AcmeApp.genruntimeconfig.cache

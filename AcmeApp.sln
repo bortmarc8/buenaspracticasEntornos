@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeApp", "AcmeApp\AcmeApp.csproj", "{B30D7897-7932-4860-9DAE-C6899814068F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testunitario", "testunitario\testunitario.csproj", "{2D8A95F7-B662-4C11-A912-574E4745972F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30D7897-7932-4860-9DAE-C6899814068F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30D7897-7932-4860-9DAE-C6899814068F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30D7897-7932-4860-9DAE-C6899814068F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30D7897-7932-4860-9DAE-C6899814068F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8A95F7-B662-4C11-A912-574E4745972F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8A95F7-B662-4C11-A912-574E4745972F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8A95F7-B662-4C11-A912-574E4745972F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8A95F7-B662-4C11-A912-574E4745972F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6D18E2C-28F0-45EC-A869-53C2465847EA}
+	EndGlobalSection
+EndGlobal
